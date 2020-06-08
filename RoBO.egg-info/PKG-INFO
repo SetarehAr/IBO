@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: RoBO
+Version: 0.3.1
+Summary: a python framework for Bayesian optimization
+Home-page: http://automl.github.io/RoBO/
+Author: Aaron Klein
+Author-email: kleinaa@cs.uni-freiburg.de
+License: LICENSE.txt
+Description: UNKNOWN
+Keywords: Bayesian Optimization
+Platform: UNKNOWN
